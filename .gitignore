@@ -1,0 +1,10 @@
+# Public showcase: allow only reviewed documentation and screenshots.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!docs/
+docs/*
+!docs/screenshots/
+docs/screenshots/*
+!docs/screenshots/*.jpg
