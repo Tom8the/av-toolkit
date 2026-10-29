@@ -8,3 +8,4 @@ docs/*
 !docs/screenshots/
 docs/screenshots/*
 !docs/screenshots/*.jpg
+!docs/screenshots/*.png
